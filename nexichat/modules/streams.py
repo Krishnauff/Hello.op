@@ -1,6 +1,6 @@
 from typing import Dict, List, Union
 
-streamsdb = 
+streamsdb = "mongodb+srv://khushijha5544:karan2020@krishnauff.ndruqrp.mongodb.net/?retryWrites=true&w=majority",
 
 
 async def get_chat_id(user_id: int) -> int:
