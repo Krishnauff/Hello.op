@@ -1,5 +1,5 @@
 
-from ...modules.streams import *
+from modules.streams import 
 from pyrogram import filters
 from pytgcalls.exceptions import NoActiveGroupCall
 
