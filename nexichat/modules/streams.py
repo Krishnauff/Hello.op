@@ -1,7 +1,6 @@
 from typing import Dict, List, Union
-from ..clients.clients import mongodb
 
-streamsdb = mongodb.streamsdb
+streamsdb = 
 
 
 async def get_chat_id(user_id: int) -> int:
